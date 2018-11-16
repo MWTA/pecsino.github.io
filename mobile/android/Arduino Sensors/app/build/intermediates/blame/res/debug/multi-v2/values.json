@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rodriguesfas/Mestrado/ardrums/mobile/android/Arduino Sensors/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/rodriguesfas/Mestrado/ardrums/mobile/android/Arduino Sensors/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,6",
+                        "startColumns": "4,4,4,2",
+                        "startOffsets": "112,58,166,218",
+                        "endColumns": "52,52,52,65",
+                        "endOffsets": "160,106,214,281"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,222,275,328",
+                        "endColumns": "52,52,52,67",
+                        "endOffsets": "217,270,323,391"
+                    }
+                },
+                {
+                    "source": "/home/rodriguesfas/Mestrado/ardrums/mobile/android/Arduino Sensors/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/rodriguesfas/Mestrado/ardrums/mobile/android/Arduino Sensors/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,516",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,673"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "396,681",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "676,836"
+                    }
+                }
+            ]
+        }
+    ]
+}

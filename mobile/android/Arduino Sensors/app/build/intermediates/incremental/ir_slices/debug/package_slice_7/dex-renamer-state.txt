@@ -1,0 +1,4 @@
+#Thu Aug 30 00:53:02 BRT 2018
+base.0=/home/rodriguesfas/Mestrado/ardrums/mobile/android/Arduino Sensors/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

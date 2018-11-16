@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Firmware": ["firmware"],
+    "Hardware": ["hardware"],
+    "App": ["appandroid"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
