@@ -2,5 +2,3 @@
 
 Run Documentation.
 
-    npm start
-
